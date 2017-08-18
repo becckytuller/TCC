@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/br/com/senaimg/wms/view/controller/LoginController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>261</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/language/Lang.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/PickSaleController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/layout/DashboardItem.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/StoreController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/InsertLoanController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/layout/MenuItemFunc.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/ReceiptController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/StarterFx.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/HomeController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/StockController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/language/Bundle.properties</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/InsertSaleController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/controller/DevolutionLoanController.java</file>
+            <file>file:/G:/TCC/Pyxis%20WMS/src/br/com/senaimg/wms/view/layout/Dashboard.java</file>
+        </group>
+    </open-files>
+</project-private>
